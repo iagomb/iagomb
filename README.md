@@ -5,6 +5,8 @@
 
 ![Iagomb GitHub stats](https://github-readme-stats.vercel.app/api?username=iagomb&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagomb&layout=compact)](https://github.com/iagomb/github-readme-stats)
+
 ## Technologies I use in my day 
 
 <div style="display: inline-block">
