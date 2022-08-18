@@ -4,8 +4,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](iagoejesus61@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
 
 ![Iagomb GitHub stats](https://github-readme-stats.vercel.app/api?username=iagomb&show_icons=true&theme=radical)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagomb&layout=compact&theme=radical"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagomb&layout=compact)](https://github.com/iagomb/github-readme-stats)
 
 ## Technologies I use in my day 
 
